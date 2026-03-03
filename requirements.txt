@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+seaborn
+matplotlib
+plotly
+folium
+streamlit-folium
+pyproj
+statsmodels
